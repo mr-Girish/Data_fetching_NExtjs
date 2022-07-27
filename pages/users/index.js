@@ -8,7 +8,7 @@ const Index = ({users}) => {
       <div className='container'>
         <h1>List all users</h1>
 
-          <table style={{border:"3px"}}>
+          <table>
             <thead>
               <th>Name</th>
               <th>username</th>
